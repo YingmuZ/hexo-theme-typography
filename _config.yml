@@ -1,6 +1,7 @@
-title_primary: "活版印字" # the bigger text
-title_secondary: "Typography" # the smaller text
+title_primary: "语言行为科学档案" # the bigger text
+title_secondary: "language journal" # the smaller text
 keywords:
+author: lulu
 
 twitter: #username
 rss: atom.xml
